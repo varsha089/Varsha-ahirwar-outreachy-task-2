@@ -1,0 +1,979 @@
+===<big>Introduction:</big> ===
+
+* I have listed articles about '''Plasma Physics:''' one of the four fundamental states of matter.
+* I chose 12 different sets of articles published by different authors at different times and locations.
+* Author names are listed in articles which I chose, either {{P|2093}} formate or {{P|50}}.
+* Authors who are grouped under {{P|50}} have separate wikidata about individual's information, and {{P|50}} would redirect to that wikidata, on the other side authors grouped under {{P|2093}} have no separate wikidata about themselves.
+* Authors have the qualifier {{P|1545}}, which is the same as the order in the original articles.
+=== <big>Articles:</big> ===
+       
+==== <big>Article 1 : {{Q|86839085}}</big> ====
+1. The first author of the article is {{Q|29052332}},grouped as {{P|50}}.
+*  Author {{Q|29052332}} has following statements -
+#    {{P|31}} = {{Q|5}}
+#    {{P|21}} = {{Q|6581072}}
+#    {{P|27}} = {{Q|30}}
+#    {{P|735}} = {{Q|2235472}}
+#    {{P|569}} = 20 decemember 1952
+#    {{P|19}} = {{Q|60}}
+#    {{P|1412}} = {{Q|1860}}
+#    {{P|106}} = {{Q|169470}},{{Q|1650915}}
+#    {{P|101}} = {{Q|413}}
+#    {{P|108}} = {{Q|838330}} and {{Q|1206658}}
+#    {{P|69}} = {{Q|131252}} and {{Q|21578}}
+#    {{P|184}} = {{Q|1351917}}
+#    {{P|185}} = {{Q|102210315}} and {{Q|102367017}}
+#    {{P|166}} = {{Q|41955909}} , {{Q|1520638}} and {{Q|5442484}}
+===== <small>[Edits made in author Wikidata items]</small> =====
+*   I added {{P|580}} and {{P|582}} of employement in {{Q|1206658}} in {{P|108}}.
+*   I added {{P|991}} of  {{Q|3604053}} in {{P|166}} with reference.
+2. The second author of this article is {{Q|80741709}}, grouped as {{P|50}}.
+*  Author {{Q|80741709}} has following statements-
+#  {{P|31}} = {{Q|5}}
+#  {{P|106}} = {{Q|1650915}}
+#  {{P|108}} = {{Q|1077236}} and {{Q|838330}}
+#  {{P|69}} = {{Q|7842}}
+#  {{P|166}} = {{Q|56884006}}
+===== <small>[Edits made in author Wikidata items]</small> =====
+*  I added {{P|21}} statement as {{Q|6581097}}.
+*  I added reference<https://w3.pppl.gov/~hji//> in {{Q|1077236}} and {{Q|838330}} of {{P|108}} statement.
+
+==== <big>Article 2:{{Q|58889074}}</big> ====
+1. First author of this article is {{Q|28364722}}, grouped as {{P|50}}.
+*  Author {{Q|28364722}} has following statement-
+#  {{P|31}} = {{Q|5}}
+#  {{P|18}} =<https://commons.wikimedia.org/wiki/File:AnnemieBogaertsFotoThalerTamas.JPG/>
+#  {{P|21}} ={{Q|6581072}}
+#  {{P|27}} ={{Q|31}}
+#  {{P|735}} ={{Q|566390}}
+#  {{P|106}} ={{Q|1622272}} and {{Q|593644}}
+#  {{P|463}} ={{Q|1301699}} and {{Q|337234}}
+#  {{P|856}} = <http://www.uantwerpen.be/en/staff/annemie-bogaerts/>
+#  {{P|2888}} = <https://scigraph.springernature.com/person.01025044151.53/>
+===== <small>[Edits made in author Wikidata items]</small> =====
+*  Earlier the date of birth of author was uncertain like it was written in term of century , I have searched about author the found out exact date of birth so I added {{P|569}}    
+with reference <https://www.uantwerpen.be/en/staff/annemie-bogaerts/personal-website/brief-cv//>.
+2. Second author of this article is 'Patrick Vanraes' ,grouped as {{P|2093}}.
+
+==== <big>Article 3: {{Q|110028642}}</big> ====
+#   First author of this article is 'Meng Zhou', grouped as {{P|2093}}.
+#   Second author of this article is 'Ye Pang', grouped as {{P|2093}}.
+#   Third author of this article is 'Xiaohua Deng', grouped as {{P|2093}}.
+#   Fourth author of this article is 'Shiyong Huang', grouped as {{P|2093}}.
+#   Fifth author of this article is 'Xiangsheng Lai', grouped as {{P|2093}}.
+
+==== <big>Article 4:{{Q|33360138}}</big> ====
+1. First author of this article is {{Q|57717525}} , grouped as {{P|50}}.
+*  Author {{Q|57717525}} has following statement-
+#  {{P|31}} = {{Q|5}}
+#  {{P|21}} = {{Q|6581097}}
+#  {{P|106}} = {{Q|1650915}}
+===== <small>[Edits made in author Wikidata items]</small> =====
+*  I added {{Q|121594}} in {{P|106}} statement with reference <https://www.s.u-tokyo.ac.jp/en/people/hoshino_masahiro//>.
+*  I added {{P|101}} statement under which I added {{Q|6643326}} with reference <https://www.s.u-tokyo.ac.jp/en/people/hoshino_masahiro//>.
+*  I added {{P|108}} statement under which I added {{Q|7842}}.
+
+2.  Second author of this article is 'Y Matsumoto' grouped as {{P|2093}}.<br>                                                                                                      3. Third author  of this article is 'T Amano' grouped as {{P|2093}}.<br>
+4.  Fourth author of this article is 'T N Kato' grouped as {{P|2093}}.<br>
+
+==== <big>Article 5:{{Q|60101261}}</big> ====
+1. First author of this article is {{Q|57472159}} , grouped as {{P|50}}.
+*  Author {{Q|57472159}} has following statements -
+#   {{P|31}} = {{Q|5}}
+#   {{P|106}} = {{Q|1650915}}
+#   {{P|108}} = {{Q|30294843}}
+===== <small>[Edits made in author Wikidata items]</small> =====
+*  I added item {{Q|651233}} under statement {{P|108}} with qualifiers.
+*  I added statement {{P|101}} under which I included two item {{Q|13082}} and {{Q|640621}} with reference <https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=200901042961373789/>.     
+*  I added statement {{P|3095}} with item {{Q|2027280}}.
+
+2. Second author of this article is {{Q|43104083}} , grouped as {{P|50}}.
+*  Author {{Q|43104083}} has following statements -
+#  {{P|31}} = {{Q|5}}
+#  {{P|21}} = {{Q|6581097}}
+#  {{P|735}} = {{Q|4817792}}
+#  {{P|569}} = 20 century
+#  {{P|106}} = {{Q|1650915}}
+#  {{P|108}} = {{Q|651233}}
+===== <small>[Edits made in author Wikidata items]</small> =====
+*  I added statement {{P|101}} including item {{Q|5615097}} with reference.<br>
+
+3 . Third author of this article is {{Q|58050005}}, grouped as {{P|50}}.<br>
+*  Author {{Q|58050005}} has following statements -
+#  {{P|31}} = {{Q|5}}
+#  {{P|106}} = {{Q|1650915}}
+#  {{P|108}} = {{Q|651233}}
+#  {{P|69}}  = {{Q|651233}}
+===== <small>[Edits made in author Wikidata items]</small> =====
+*  I added statement {{P|21}} including item {{Q|6581097}} with image as a reference.<br>
+
+4. Fourth author of this article is 'Katsunobu Nishihara' grouped as {{P|2093}}.<br>
+5. Fifth author of this article is 'Akira Sasaki' grouped as {{P|2093}}.<br>
+6. sixth author of this article is 'Masanori Nunami' grouped as {{P|2093}}.<br>
+7. seventh author of this article is 'Hajime Tanuma' grouped as {{P|2093}}.<br>
+8. eighth author of this article is 'Yoshinori Shimada' grouped as {{P|2093}}.<br>
+9. nineth author of this article is 'Kazumi Fujima' grouped as {{P|2093}}.<br>
+10.tenth author of this article is 'Hiroyuki Furukawa' grouped as {{P|2093}}.<br>
+11.eleventh author of this article is 'Takako Kato' grouped as {{P|2093}}.<br>
+12.twelth author of this article is 'Fumihiro Koike' grouped as {{P|2093}}.<br>
+13.thirteenth author of this article is 'Richard More' grouped as {{P|2093}}.<br>
+14.fourteenth author of this article is 'Masakatsu Murakami' grouped as {{P|2093}}.<br>
+15.fifteenth author of this article is 'Takeshi Nishikawa' grouped as {{P|2093}}.<br>
+16.sixteenth author of this article is 'Vasilii Zhakhovskii' grouped as {{P|2093}}.<br>
+17.seventeenth author of this article is 'Kouhei Gamata' grouped as {{P|2093}}.<br>
+18.eightteenth author of this article is 'Akira Takata' grouped as {{P|2093}}.<br>
+19.nineteenth author of this article is 'Hirofumi Ueda' grouped as {{P|2093}}.<br>
+20.twenteenth author of this article is 'Hiroaki Nishimura' grouped as {{P|2093}}.<br>
+21.twentyoneth author of this article is 'Yasukazu Izawa' grouped as {{P|2093}}.<br>
+22.twentytwoth author of this article is 'Kunoki Mima' grouped as {{P|2093}}.<br>
+
+
+==== <big>Article 6:{{Q|38193292}}</big> ====
+1. first author of this article  is {{Q|87402106}}, grouped as {{P|50}}.
+*  Author {{Q|87402106}} has following statements -
+#  {{P|31}} = {{Q|5}}.
+#  {{P|735}} = {{Q|2800558}}
+#  {{P|106}} = {{Q|1650915}}
+#  {{P|108}} = {{Q|182973}} and {{Q|736674}}
+===== <small>[Edits made in author Wikidata items]</small> =====
+*  I added statement {{P|21}} including item {{Q|6581097}}.
+*  I added statement {{P|101}} including items {{Q|10251}} , {{Q|5615097}} and {{Q|2364232}} with reference.
+*  I added statement {{P|69}} including item {{Q|736674}} with qualifier and item {{Q|503419}} with qualifier and reference.<br>
+
+2. second author of this article is 'Dmitri A Uzdensky' , grouped as {{P|2093}}.
+
+==== <big>Article 7:{{Q|74515767}}</big> ====
+1. first author of this article is {{Q|97630190}}, grouped as {{P|50}}.
+*  Author {{Q|97630190}} has following statements-
+# {{P|31}} = {{Q|5}}
+# {{P|21}} = {{Q|6581097}}
+# {{P|735}} = {{Q|2256715}}
+# {{P|569}} = 8 August 1959
+# {{P|19}} = {{Q|54195}}
+# {{P|106}} = {{Q|169470}}
+# {{P|108}} = {{Q|174710}}
+# {{P|69}} = {{Q|168756}} and {{Q|174710}}
+# {{P|184}} = {{Q|1441489}} ,{{Q|1599516}} and {{Q|21061567}}
+# {{P|185}} = {{Q|58904369}}
+# {{P|166}} = {{Q|1520638}} , {{Q|41955909}} and {{Q|111734}}<br>
+
+2. Second author of this article is {{Q|92459955}} , grouped as {{P|50}}.
+*  Author {{Q|92459955}} has following statements-
+# {{P|31}} = {{Q|5}}
+# {{P|21}} = {{Q|6581097}}
+# {{P|735}} = {{Q|1459852}} , {{Q|1237447}}
+# {{P|734}} = {{Q|27257079}}
+# {{P|569}} =  7 June 1963
+# {{P|106}} = {{Q|169470}}
+# {{P|108}} = {{Q|311801}} , {{Q|1133630}}
+# {{P|69}} = {{Q|174710}}
+# {{P|184}} = {{Q|21061567}}
+# {{P|166}} = {{Q|107024523}} , {{Q|56884006}}<br>
+3. Third author of this article is {{Q|21061567}} , grouped as {{P|50}}.
+* Author {{Q|21061567}} has following statement-
+# {{P|31}} = {{Q|5}}
+# {{P|21}} = {{Q|6581097}}
+# {{P|27}} = {{Q|668}}
+# {{P|735}} = {{Q|10448308}}
+# {{P|734}} = {{Q|4160502}}
+# {{P|569}} = 22 July 1953
+# {{P|19}} = {{Q|668}}
+# {{P|106}} = {{Q|169470}} , {{Q|1622272}}
+# {{P|108}} = {{Q|174710}}
+# {{P|69}} = {{Q|170027}} ,{{Q|1474019}}
+# {{P|185}} = {{Q|97630190}} , {{Q|92459955}}
+# {{P|166}} = {{Q|41955909}} ,{{Q|1520638}} ,{{Q|111734}} and {{Q|56884006}}<br>
+4. Fourth author of this article is {{Q|89668800}}, grouped as {{P|50}}.
+*  Author {{Q|89668800}} has following statement-
+# {{P|31}} = {{Q|5}}
+# {{P|735}} = {{Q|339346}}
+# {{P|106}} = {{Q|1650915}}
+# {{P|108}} = {{Q|174710}}
+# {{P|166}} = {{Q|56884006}}
+===== <small>[Edits made in author Wikidata items]</small> =====
+* I added statement {{P|21}} with item {{Q|6581097}}.
+* I added {{Q|111734}} under statement {{P|166}} with reference.<br>
+
+5. Fifth author of this article is 'Marsh KA', grouped as {{P|2093}}.<br>
+6. Sixth author of this article is 'Dyson A' grouped as {{P|2093}}.
+
+==== <big>Article 8:{{Q|59065222}}</big> ====
+1. First author of this article is {{Q|60704496}}, grouped as {{P|50}}.
+* Author {{Q|60704496}} has following statement-
+# {{P|31}} = {{Q|5}}
+# {{P|21}} = {{Q|6581097}}
+# {{P|735}} = {{Q|3859417}}
+# {{P|734}} = {{Q|21507889}}
+# {{P|106}} = {{Q|36180}} , {{Q|1607826}}
+# {{P|108}} = {{Q|180445}}
+# {{P|69}} = {{Q|838330}}
+===== <small>[Edits made in author Wikidata items]</small> =====
+*  I added {{Q|192864}} , {{Q|28810511}} with qualifier and {{Q|59012758}} with qualifier and reference at {{P|108}} statement.
+*  I added qualifier in {{P|69}} statement of author homepage.
+*  I added statement {{P|551}} including item {{Q|61}}.<br>
+
+2. Author ' M Mitchell Waldrop' is himself a second author  for this article and grouped as {{P|2093}}.
+
+==== <big>Article 9:{{Q|62037220}}</big> ====
+1. The author of this article is {{Q|62036298}} , grouped as {{P|50}}.
+*   Author {{Q|62036298}} has following statement-
+#   {{P|31}} = {{Q|5}}
+#   {{P|21}} = {{Q|6581097}}
+#   {{P|735}} = {{Q|17539144}}
+#   {{P|734}} = {{Q|16458527}}
+#   {{P|106}} = {{Q|1650915}} , {{Q|169470}}
+#   {{P|108}} = {{Q|180419}} , {{Q|153987}}
+===== <small>[Edits made in author Wikidata items]</small> =====
+*  I added statement {{P|69}} including items {{Q|46210}} and {{Q|153987}} with qualifiers and reference.
+*  I added statement {{P|1412}} including item {{Q|1860}} with reference.
+
+==== <big>Article 10:{{Q|68180358}}</big> ====
+#  First author of this article is 'Bacchini F', grouped as {{P|2093}}.
+#  Second author of this article is 'Susino R', grouped as {{P|2093}}.
+#  Third author of this article is 'Bemporad A', grouped as {{P|2093}}.
+#  Fourth author of this article is 'Lapenta G', grouped as {{P|2093}}.
+
+==== <big>Article 11:{{Q|69070827}}</big> ====
+#  First author of this article is 'Bemporad A', grouped as {{P|2093}}.
+#  Second author of this article is 'Susino R', grouped as {{P|2093}}.
+#  Third author of this article is 'Lapenta G', grouped as {{P|2093}}
+
+==== <big>Article 12:{{Q|79777354}}</big> ====
+1. The author of this article is {{Q|63990381}} , grouped as {{P|50}}.
+*   Author {{Q|63990381}} has following statement-
+#   {{P|31}} = {{Q|5}}
+#   {{P|21}} = {{Q|6581097}}
+#   {{P|735}} = {{Q|4927937}}
+#   {{P|734}} = {{Q|4086835}}
+#   {{P|106}} = {{Q|1650915}}
+#   {{P|108}} = {{Q|45820}}
+#   {{P|69}} = {{Q|34433}} , {{Q|1859178}}
+===== <small>[Edits made in author Wikidata items]</small> =====
+*  I added statement {{P|463}} including items {{Q|5438598}} and {{Q|891109}} with reference.
+
+=== <big>Bonus:</big> ===
+===== <small>What are properties and how they work:</small> =====
+* During completing task 1 as I understood properties are as features or categories which a object or instance has for example - If author is object than it is categorized in {{P|31}} ,{{P|21}} etc.
+* There should be atleast one value correspond to a property.
+* Properties are stored as P 'template' on wikidata.
+===== <small>What are value and how they work:</small> =====
+*  ON wikidata , value is called as items which correspond to a specific property . Ex- For property {{P|21}} correspond value is {{Q|6581097}}.
+*  Value are stored as  Q 'template' correspond to P' template'.
+*  To add a new item in property that item must already be present on Wikidata.
+==== <small>What are qualifier and how they work:</small> ====
+*  Qualifiers are the further discription of values. Ex- In property {{P|108}},{{Q|2738622}} is a value correspond to {{P|108}} and {{P|580}} is a qualifier correspond to value {{Q|2738622}}.
+*  Qualifier are stored in P - Q pair of template .
+*  There should be atleast 1 Q 'template' for P 'template' in qualifier.
+
+===<big>Introduction:</big> ===
+
+* I have listed articles about '''Plasma Physics:''' one of the four fundamental states of matter.
+* I chose 12 different sets of articles published by different authors at different times and locations.
+* Author names are listed in articles which I chose, either {{P|2093}} formate or {{P|50}}.
+* Authors who are grouped under {{P|50}} have separate wikidata about individual's information, and {{P|50}} would redirect to that wikidata, on the other side authors grouped under {{P|2093}} have no separate wikidata about themselves.
+* Authors have the qualifier {{P|1545}}, which is the same as the order in the original articles.
+=== <big>Articles:</big> ===
+
+==== <big>Article 1 : {{Q|86839085}}</big> ====
+1. The first author of the article is {{Q|29052332}},grouped as {{P|50}}.
+*  Author {{Q|29052332}} has following statements -
+#    {{P|31}} = {{Q|5}}
+#    {{P|21}} = {{Q|6581072}}
+#    {{P|27}} = {{Q|30}}
+#    {{P|735}} = {{Q|2235472}}
+#    {{P|569}} = 20 decemember 1952
+#    {{P|19}} = {{Q|60}}
+#    {{P|1412}} = {{Q|1860}}
+#    {{P|106}} = {{Q|169470}},{{Q|1650915}}
+#    {{P|101}} = {{Q|413}}
+#    {{P|108}} = {{Q|838330}} and {{Q|1206658}}
+#    {{P|69}} = {{Q|131252}} and {{Q|21578}}
+#    {{P|184}} = {{Q|1351917}}
+#    {{P|185}} = {{Q|102210315}} and {{Q|102367017}}
+#    {{P|166}} = {{Q|41955909}} , {{Q|1520638}} and {{Q|5442484}}
+===== <small>[Edits made in author Wikidata items]</small> =====
+*   I added {{P|580}} and {{P|582}} of employement in {{Q|1206658}} in {{P|108}}.
+*   I added {{P|991}} of  {{Q|3604053}} in {{P|166}} with reference.
+2. The second author of this article is {{Q|80741709}}, grouped as {{P|50}}.
+*  Author {{Q|80741709}} has following statements-
+#  {{P|31}} = {{Q|5}}
+#  {{P|106}} = {{Q|1650915}}
+#  {{P|108}} = {{Q|1077236}} and {{Q|838330}}
+#  {{P|69}} = {{Q|7842}}
+#  {{P|166}} = {{Q|56884006}}
+===== <small>[Edits made in author Wikidata items]</small> =====
+*  I added {{P|21}} statement as {{Q|6581097}}.
+*  I added reference<https://w3.pppl.gov/~hji//> in {{Q|1077236}} and {{Q|838330}} of {{P|108}} statement.
+
+==== <big>Article 2:{{Q|58889074}}</big> ====
+1. First author of this article is {{Q|28364722}}, grouped as {{P|50}}.
+*  Author {{Q|28364722}} has following statement-
+#  {{P|31}} = {{Q|5}}
+#  {{P|18}} =<https://commons.wikimedia.org/wiki/File:AnnemieBogaertsFotoThalerTamas.JPG/>
+#  {{P|21}} ={{Q|6581072}}
+#  {{P|27}} ={{Q|31}}
+#  {{P|735}} ={{Q|566390}}
+#  {{P|106}} ={{Q|1622272}} and {{Q|593644}}
+#  {{P|463}} ={{Q|1301699}} and {{Q|337234}}
+#  {{P|856}} = <http://www.uantwerpen.be/en/staff/annemie-bogaerts/>
+#  {{P|2888}} = <https://scigraph.springernature.com/person.01025044151.53/>
+===== <small>[Edits made in author Wikidata items]</small> =====
+*  Earlier the date of birth of author was uncertain like it was written in term of century , I have searched about author the found out exact date of birth so I added {{P|569}}    
+with reference <https://www.uantwerpen.be/en/staff/annemie-bogaerts/personal-website/brief-cv//>.
+2. Second author of this article is 'Patrick Vanraes' ,grouped as {{P|2093}}.
+
+==== <big>Article 3: {{Q|110028642}}</big> ====
+#   First author of this article is 'Meng Zhou', grouped as {{P|2093}}.
+#   Second author of this article is 'Ye Pang', grouped as {{P|2093}}.
+#   Third author of this article is 'Xiaohua Deng', grouped as {{P|2093}}.
+#   Fourth author of this article is 'Shiyong Huang', grouped as {{P|2093}}.
+#   Fifth author of this article is 'Xiangsheng Lai', grouped as {{P|2093}}.
+
+==== <big>Article 4:{{Q|33360138}}</big> ====
+1. First author of this article is {{Q|57717525}} , grouped as {{P|50}}.
+*  Author {{Q|57717525}} has following statement-
+#  {{P|31}} = {{Q|5}}
+#  {{P|21}} = {{Q|6581097}}
+#  {{P|106}} = {{Q|1650915}}
+===== <small>[Edits made in author Wikidata items]</small> =====
+*  I added {{Q|121594}} in {{P|106}} statement with reference <https://www.s.u-tokyo.ac.jp/en/people/hoshino_masahiro//>.
+*  I added {{P|101}} statement under which I added {{Q|6643326}} with reference <https://www.s.u-tokyo.ac.jp/en/people/hoshino_masahiro//>.
+*  I added {{P|108}} statement under which I added {{Q|7842}}.
+
+2.  Second author of this article is 'Y Matsumoto' grouped as {{P|2093}}.<br>                                                                                                      3. Third author  of this article is 'T Amano' grouped as {{P|2093}}.<br>
+4.  Fourth author of this article is 'T N Kato' grouped as {{P|2093}}.<br>
+
+==== <big>Article 5:{{Q|60101261}}</big> ====
+1. First author of this article is {{Q|57472159}} , grouped as {{P|50}}.
+*  Author {{Q|57472159}} has following statements -
+#   {{P|31}} = {{Q|5}}
+#   {{P|106}} = {{Q|1650915}}
+#   {{P|108}} = {{Q|30294843}}
+===== <small>[Edits made in author Wikidata items]</small> =====
+*  I added item {{Q|651233}} under statement {{P|108}} with qualifiers.
+*  I added statement {{P|101}} under which I included two item {{Q|13082}} and {{Q|640621}} with reference <https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=200901042961373789/>.     
+*  I added statement {{P|3095}} with item {{Q|2027280}}.
+
+2. Second author of this article is {{Q|43104083}} , grouped as {{P|50}}.
+*  Author {{Q|43104083}} has following statements -
+#  {{P|31}} = {{Q|5}}
+#  {{P|21}} = {{Q|6581097}}
+#  {{P|735}} = {{Q|4817792}}
+#  {{P|569}} = 20 century
+#  {{P|106}} = {{Q|1650915}}
+#  {{P|108}} = {{Q|651233}}
+===== <small>[Edits made in author Wikidata items]</small> =====
+*  I added statement {{P|101}} including item {{Q|5615097}} with reference.<br>
+
+3 . Third author of this article is {{Q|58050005}}, grouped as {{P|50}}.<br>
+*  Author {{Q|58050005}} has following statements -
+#  {{P|31}} = {{Q|5}}
+#  {{P|106}} = {{Q|1650915}}
+#  {{P|108}} = {{Q|651233}}
+#  {{P|69}}  = {{Q|651233}}
+===== <small>[Edits made in author Wikidata items]</small> =====
+*  I added statement {{P|21}} including item {{Q|6581097}} with image as a reference.<br>
+
+4. Fourth author of this article is 'Katsunobu Nishihara' grouped as {{P|2093}}.<br>
+5. Fifth author of this article is 'Akira Sasaki' grouped as {{P|2093}}.<br>
+6. sixth author of this article is 'Masanori Nunami' grouped as {{P|2093}}.<br>
+7. seventh author of this article is 'Hajime Tanuma' grouped as {{P|2093}}.<br>
+8. eighth author of this article is 'Yoshinori Shimada' grouped as {{P|2093}}.<br>
+9. nineth author of this article is 'Kazumi Fujima' grouped as {{P|2093}}.<br>
+10.tenth author of this article is 'Hiroyuki Furukawa' grouped as {{P|2093}}.<br>
+11.eleventh author of this article is 'Takako Kato' grouped as {{P|2093}}.<br>
+12.twelth author of this article is 'Fumihiro Koike' grouped as {{P|2093}}.<br>
+13.thirteenth author of this article is 'Richard More' grouped as {{P|2093}}.<br>
+14.fourteenth author of this article is 'Masakatsu Murakami' grouped as {{P|2093}}.<br>
+15.fifteenth author of this article is 'Takeshi Nishikawa' grouped as {{P|2093}}.<br>
+16.sixteenth author of this article is 'Vasilii Zhakhovskii' grouped as {{P|2093}}.<br>
+17.seventeenth author of this article is 'Kouhei Gamata' grouped as {{P|2093}}.<br>
+18.eightteenth author of this article is 'Akira Takata' grouped as {{P|2093}}.<br>
+19.nineteenth author of this article is 'Hirofumi Ueda' grouped as {{P|2093}}.<br>
+20.twenteenth author of this article is 'Hiroaki Nishimura' grouped as {{P|2093}}.<br>
+21.twentyoneth author of this article is 'Yasukazu Izawa' grouped as {{P|2093}}.<br>
+22.twentytwoth author of this article is 'Kunoki Mima' grouped as {{P|2093}}.<br>
+
+
+==== <big>Article 6:{{Q|38193292}}</big> ====
+1. first author of this article  is {{Q|87402106}}, grouped as {{P|50}}.
+*  Author {{Q|87402106}} has following statements -
+#  {{P|31}} = {{Q|5}}.
+#  {{P|735}} = {{Q|2800558}}
+#  {{P|106}} = {{Q|1650915}}
+#  {{P|108}} = {{Q|182973}} and {{Q|736674}}
+===== <small>[Edits made in author Wikidata items]</small> =====
+*  I added statement {{P|21}} including item {{Q|6581097}}.
+*  I added statement {{P|101}} including items {{Q|10251}} , {{Q|5615097}} and {{Q|2364232}} with reference.
+*  I added statement {{P|69}} including item {{Q|736674}} with qualifier and item {{Q|503419}} with qualifier and reference.<br>
+
+2. second author of this article is 'Dmitri A Uzdensky' , grouped as {{P|2093}}.
+
+==== <big>Article 7:{{Q|74515767}}</big> ====
+1. first author of this article is {{Q|97630190}}, grouped as {{P|50}}.
+*  Author {{Q|97630190}} has following statements-
+# {{P|31}} = {{Q|5}}
+# {{P|21}} = {{Q|6581097}}
+# {{P|735}} = {{Q|2256715}}
+# {{P|569}} = 8 August 1959
+# {{P|19}} = {{Q|54195}}
+# {{P|106}} = {{Q|169470}}
+# {{P|108}} = {{Q|174710}}
+# {{P|69}} = {{Q|168756}} and {{Q|174710}}
+# {{P|184}} = {{Q|1441489}} ,{{Q|1599516}} and {{Q|21061567}}
+# {{P|185}} = {{Q|58904369}}
+# {{P|166}} = {{Q|1520638}} , {{Q|41955909}} and {{Q|111734}}<br>
+
+2. Second author of this article is {{Q|92459955}} , grouped as {{P|50}}.
+*  Author {{Q|92459955}} has following statements-
+# {{P|31}} = {{Q|5}}
+# {{P|21}} = {{Q|6581097}}
+# {{P|735}} = {{Q|1459852}} , {{Q|1237447}}
+# {{P|734}} = {{Q|27257079}}
+# {{P|569}} =  7 June 1963
+# {{P|106}} = {{Q|169470}}
+# {{P|108}} = {{Q|311801}} , {{Q|1133630}}
+# {{P|69}} = {{Q|174710}}
+# {{P|184}} = {{Q|21061567}}
+# {{P|166}} = {{Q|107024523}} , {{Q|56884006}}<br>
+3. Third author of this article is {{Q|21061567}} , grouped as {{P|50}}.
+* Author {{Q|21061567}} has following statement-
+# {{P|31}} = {{Q|5}}
+# {{P|21}} = {{Q|6581097}}
+# {{P|27}} = {{Q|668}}
+# {{P|735}} = {{Q|10448308}}
+# {{P|734}} = {{Q|4160502}}
+# {{P|569}} = 22 July 1953
+# {{P|19}} = {{Q|668}}
+# {{P|106}} = {{Q|169470}} , {{Q|1622272}}
+# {{P|108}} = {{Q|174710}}
+# {{P|69}} = {{Q|170027}} ,{{Q|1474019}}
+# {{P|185}} = {{Q|97630190}} , {{Q|92459955}}
+# {{P|166}} = {{Q|41955909}} ,{{Q|1520638}} ,{{Q|111734}} and {{Q|56884006}}<br>
+4. Fourth author of this article is {{Q|89668800}}, grouped as {{P|50}}.
+*  Author {{Q|89668800}} has following statement-
+# {{P|31}} = {{Q|5}}
+# {{P|735}} = {{Q|339346}}
+# {{P|106}} = {{Q|1650915}}
+# {{P|108}} = {{Q|174710}}
+# {{P|166}} = {{Q|56884006}}
+===== <small>[Edits made in author Wikidata items]</small> =====
+* I added statement {{P|21}} with item {{Q|6581097}}.
+* I added {{Q|111734}} under statement {{P|166}} with reference.<br>
+
+5. Fifth author of this article is 'Marsh KA', grouped as {{P|2093}}.<br>
+6. Sixth author of this article is 'Dyson A' grouped as {{P|2093}}.
+
+==== <big>Article 8:{{Q|59065222}}</big> ====
+1. First author of this article is {{Q|60704496}}, grouped as {{P|50}}.
+* Author {{Q|60704496}} has following statement-
+# {{P|31}} = {{Q|5}}
+# {{P|21}} = {{Q|6581097}}
+# {{P|735}} = {{Q|3859417}}
+# {{P|734}} = {{Q|21507889}}
+# {{P|106}} = {{Q|36180}} , {{Q|1607826}}
+# {{P|108}} = {{Q|180445}}
+# {{P|69}} = {{Q|838330}}
+===== <small>[Edits made in author Wikidata items]</small> =====
+*  I added {{Q|192864}} , {{Q|28810511}} with qualifier and {{Q|59012758}} with qualifier and reference at {{P|108}} statement.
+*  I added qualifier in {{P|69}} statement of author homepage.
+*  I added statement {{P|551}} including item {{Q|61}}.<br>
+
+2. Author ' M Mitchell Waldrop' is himself a second author  for this article and grouped as {{P|2093}}.
+
+==== <big>Article 9:{{Q|62037220}}</big> ====
+1. The author of this article is {{Q|62036298}} , grouped as {{P|50}}.
+*   Author {{Q|62036298}} has following statement-
+#   {{P|31}} = {{Q|5}}
+#   {{P|21}} = {{Q|6581097}}
+#   {{P|735}} = {{Q|17539144}}
+#   {{P|734}} = {{Q|16458527}}
+#   {{P|106}} = {{Q|1650915}} , {{Q|169470}}
+#   {{P|108}} = {{Q|180419}} , {{Q|153987}}
+===== <small>[Edits made in author Wikidata items]</small> =====
+*  I added statement {{P|69}} including items {{Q|46210}} and {{Q|153987}} with qualifiers and reference.
+*  I added statement {{P|1412}} including item {{Q|1860}} with reference.
+
+==== <big>Article 10:{{Q|68180358}}</big> ====
+#  First author of this article is 'Bacchini F', grouped as {{P|2093}}.
+#  Second author of this article is 'Susino R', grouped as {{P|2093}}.
+#  Third author of this article is 'Bemporad A', grouped as {{P|2093}}.
+#  Fourth author of this article is 'Lapenta G', grouped as {{P|2093}}.
+
+==== <big>Article 11:{{Q|69070827}}</big> ====
+#  First author of this article is 'Bemporad A', grouped as {{P|2093}}.
+#  Second author of this article is 'Susino R', grouped as {{P|2093}}.
+#  Third author of this article is 'Lapenta G', grouped as {{P|2093}}
+
+==== <big>Article 12:{{Q|79777354}}</big> ====
+1. The author of this article is {{Q|63990381}} , grouped as {{P|50}}.
+*   Author {{Q|63990381}} has following statement-
+#   {{P|31}} = {{Q|5}}
+#   {{P|21}} = {{Q|6581097}}
+#   {{P|735}} = {{Q|4927937}}
+#   {{P|734}} = {{Q|4086835}}
+#   {{P|106}} = {{Q|1650915}}
+#   {{P|108}} = {{Q|45820}}
+#   {{P|69}} = {{Q|34433}} , {{Q|1859178}}
+===== <small>[Edits made in author Wikidata items]</small> =====
+*  I added statement {{P|463}} including items {{Q|5438598}} and {{Q|891109}} with reference.
+
+=== <big>Bonus:</big> ===
+===== <small>What are properties and how they work:</small> =====
+* During completing task 1 as I understood properties are as features or categories which a object or instance has for example - If author is object than it is categorized in {{P|31}} ,{{P|21}} etc.
+* There should be atleast one value correspond to a property.
+* Properties are stored as P 'template' on wikidata.
+===== <small>What are value and how they work:</small> =====
+*  ON wikidata , value is called as items which correspond to a specific property . Ex- For property {{P|21}} correspond value is {{Q|6581097}}.
+*  Value are stored as  Q 'template' correspond to P' template'.
+*  To add a new item in property that item must already be present on Wikidata.
+==== <small>What are qualifier and how they work:</small> ====
+*  Qualifiers are the further discription of values. Ex- In property {{P|108}},{{Q|2738622}} is a value correspond to {{P|108}} and {{P|580}} is a qualifier correspond to value {{Q|2738622}}.
+*  Qualifier are stored in P - Q pair of template .
+*  There should be atleast 1 Q 'template' for P 'template' in qualifier.
+Hello , Hello
+WARNING: No user is logged in on site wikidata:wikidata
+WARNING: No user is logged in on site wikidata:wikidata
+It is not working!
+
+Title of article:
+Wikidata Sandbox
+
+Q identifier of article:
+        Q4115189
+
+
+Title of article:
+Plasma physics. Understanding particle acceleration in astrophysical plasmas
+
+Q identifier of article:
+        Q86839085
+
+Author Information:
+        Name: Ellen Gould Zweibel
+        Q identifier: Q29052332
+
+        Qualifiers:
+        Stated as: Ellen Zweibel
+        Series ordinal: 2
+
+        Name info:
+        Given name:
+        Ellen
+                Q identifier: Q2235472
+
+        Family name:
+                *No family name info*
+
+
+Author Information:
+        Name: Hantao Ji
+        Q identifier: Q80741709
+
+        Qualifiers:
+        Stated as: Hantao Ji
+        Series ordinal: 1
+
+        Name info:
+        Given name:
+                *No Given name info*
+        Family name:
+                *No family name info*
+
+
+
+Title of article:
+Plasma physics of liquids—A focused review
+
+Q identifier of article:
+        Q58889074
+
+Author Information:
+        Name: Annemie Bogaerts
+        Q identifier: Q28364722
+
+        Qualifiers:
+        Stated as: Annemie Bogaerts
+        Series ordinal: 2
+
+        Name info:
+        Given name:
+        Annemie
+                Q identifier: Q566390
+
+        Family name:
+        Bogaerts
+                Q identifier: Q27974402
+
+
+
+Author Name String:
+        Name: Patrick Vanraes
+        Series ordinal: 1
+
+
+
+Title of article:
+Plasma physics of magnetic island coalescence during magnetic reconnection
+
+Q identifier of article:
+        Q110028642
+
+Author Name String:
+        Name: Meng Zhou
+        Series ordinal: 1
+
+
+Author Name String:
+        Name: Ye Pang
+        Series ordinal: 2
+
+
+Author Name String:
+        Name: Xiaohua Deng
+        Series ordinal: 3
+
+
+Author Name String:
+        Name: Shiyong Huang
+        Series ordinal: 4
+
+
+Author Name String:
+        Name: Xiangsheng Lai
+        Series ordinal: 5
+
+
+
+Title of article:
+Plasma physics. Stochastic electron acceleration during spontaneous turbulent reconnection in a strong shock wave
+
+Q identifier of article:
+        Q33360138
+
+Author Information:
+        Name: Masahiro Hoshino
+        Q identifier: Q57717525
+
+        Qualifiers:
+        Stated as: M Hoshino
+        Series ordinal: 4
+
+        Name info:
+        Given name:
+                *No Given name info*
+        Family name:
+                *No family name info*
+
+
+Author Name String:
+        Name: Y Matsumoto
+        Series ordinal: 1
+
+
+Author Name String:
+        Name: T Amano
+        Series ordinal: 2
+
+
+Author Name String:
+        Name: T N Kato
+        Series ordinal: 3
+
+
+
+Title of article:
+Plasma physics and radiation hydrodynamics in developing an extreme ultraviolet light source for lithography
+
+Q identifier of article:
+        Q60101261
+
+Author Information:
+        Name: Noriaki Miyanaga
+        Q identifier: Q57472159
+
+        Qualifiers:
+        Stated as: Noriaki Miyanaga
+        Series ordinal: 21
+
+        Name info:
+        Given name:
+                *No Given name info*
+        Family name:
+                *No family name info*
+
+
+Author Information:
+        Name: Atsushi Sunahara
+        Q identifier: Q43104083
+
+        Qualifiers:
+        Stated as: Atsushi Sunahara
+        Series ordinal: 2
+
+        Name info:
+        Given name:
+        Atsushi
+                Q identifier: Q4817792
+
+        Family name:
+                *No family name info*
+
+
+Author Information:
+        Name: Shinsuke Fujioka
+        Q identifier: Q58050005
+
+        Qualifiers:
+        Stated as: Shinsuke Fujioka
+        Series ordinal: 6
+
+        Name info:
+        Given name:
+                *No Given name info*
+        Family name:
+                *No family name info*
+
+
+Author Name String:
+        Name: Katsunobu Nishihara
+        Series ordinal: 1
+
+
+Author Name String:
+        Name: Akira Sasaki
+        Series ordinal: 3
+
+
+Author Name String:
+        Name: Masanori Nunami
+        Series ordinal: 4
+
+
+Author Name String:
+        Name: Hajime Tanuma
+        Series ordinal: 5
+
+
+Author Name String:
+        Name: Yoshinori Shimada
+        Series ordinal: 7
+
+
+Author Name String:
+        Name: Kazumi Fujima
+        Series ordinal: 8
+
+
+Author Name String:
+        Name: Hiroyuki Furukawa
+        Series ordinal: 9
+
+
+Author Name String:
+        Name: Takako Kato
+        Series ordinal: 10
+
+
+Author Name String:
+        Name: Fumihiro Koike
+        Series ordinal: 11
+
+
+Author Name String:
+        Name: Richard More
+        Series ordinal: 12
+
+
+Author Name String:
+        Name: Masakatsu Murakami
+        Series ordinal: 13
+
+
+Author Name String:
+        Name: Takeshi Nishikawa
+        Series ordinal: 14
+
+
+Author Name String:
+        Name: Vasilii Zhakhovskii
+        Series ordinal: 15
+
+
+Author Name String:
+        Name: Kouhei Gamata
+        Series ordinal: 16
+
+
+Author Name String:
+        Name: Akira Takata
+        Series ordinal: 17
+
+
+Author Name String:
+        Name: Hirofumi Ueda
+        Series ordinal: 18
+
+
+Author Name String:
+        Name: Hiroaki Nishimura
+        Series ordinal: 19
+
+
+Author Name String:
+        Name: Yasukazu Izawa
+        Series ordinal: 20
+
+
+Author Name String:
+        Name: Kunoki Mima
+        Series ordinal: 22
+
+
+
+Title of article:
+Plasma physics of extreme astrophysical environments.
+
+Q identifier of article:
+        Q38193292
+
+Author Information:
+        Name: Shane Rightley
+        Q identifier: Q87402106
+
+        Qualifiers:
+        Series ordinal: 2
+
+        Name info:
+        Given name:
+        Shane
+                Q identifier: Q2800558
+
+        Family name:
+                *No family name info*
+
+
+Author Name String:
+        Name: Dmitri A Uzdensky
+        Series ordinal: 1
+
+
+
+Title of article:
+Plasma physics aspects of tunnel-ionized gases
+
+Q identifier of article:
+        Q74515767
+
+Author Information:
+        Name: Warren B. Mori
+        Q identifier: Q97630190
+
+        Qualifiers:
+        Stated as: Mori WB
+        Series ordinal: 3
+
+        Name info:
+        Given name:
+        Warren
+                Q identifier: Q2256715
+
+        Family name:
+                *No family name info*
+
+
+Author Information:
+        Name: Wim Leemans
+        Q identifier: Q92459955
+
+        Qualifiers:
+        Stated as: Leemans WP
+        Series ordinal: 1
+
+        Name info:
+        Given name:
+        Wim
+                Q identifier: Q1459852
+
+        Pieter
+                Q identifier: Q1237447
+
+        Family name:
+        Leemans
+                Q identifier: Q27257079
+
+
+
+Author Information:
+        Name: Chandrashekhar J. Joshi
+        Q identifier: Q21061567
+
+        Qualifiers:
+        Stated as: Joshi C
+        Series ordinal: 6
+
+        Name info:
+        Given name:
+        Chandrasekhar
+                Q identifier: Q10448308
+
+        Family name:
+        Joshi
+                Q identifier: Q4160502
+
+
+
+Author Information:
+        Name: Chris E. Clayton
+        Q identifier: Q89668800
+
+        Qualifiers:
+        Stated as: Clayton CE
+        Series ordinal: 2
+
+        Name info:
+        Given name:
+        Chris
+                Q identifier: Q339346
+
+        Family name:
+                *No family name info*
+
+
+Author Name String:
+        Name: Marsh KA
+        Series ordinal: 4
+
+
+Author Name String:
+        Name: Dyson A
+        Series ordinal: 5
+
+
+
+Title of article:
+Plasma physics: The fusion upstarts
+
+Q identifier of article:
+        Q59065222
+
+Author Information:
+        Name: M. Mitchell Waldrop
+        Q identifier: Q60704496
+
+        Qualifiers:
+
+        Name info:
+        Given name:
+        Mitchell
+                Q identifier: Q3859417
+
+        Family name:
+        Waldrop
+                Q identifier: Q21507889
+
+
+
+Author Name String:
+        Name: M Mitchell Waldrop
+        Series ordinal: 1
